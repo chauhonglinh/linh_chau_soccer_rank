@@ -24,3 +24,7 @@ soccker_rank-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+*.iml
+
+/.idea/
